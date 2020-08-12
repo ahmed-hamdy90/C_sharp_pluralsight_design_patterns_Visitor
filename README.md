@@ -1,0 +1,1 @@
+#### This Repository Follow Pluralsight course for [C# Visitor pattern](https://app.pluralsight.com/library/courses/c-sharp-design-patterns-visitor)
